@@ -1,1 +1,2 @@
 use (smart);
+use 1;
